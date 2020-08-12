@@ -4,7 +4,7 @@
 Recordar que el notion es solo un ayuda memoria. Por lo tanto, no contiene mucha ayuda para realizar los gráficos es solo un tipeo de los contenidos
 de cada sesión.
 
-# Tableau Intermedio
+# Sesiones
 
 Sesión1:
 https://www.notion.so/Tableau-Intermedio-Sesi-n-1-24dcbd4577e4431083713ff1e0f09079
